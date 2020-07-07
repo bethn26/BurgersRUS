@@ -1,0 +1,23 @@
+{
+  "name": "BurgersRUS",
+  "version": "1.0.0",
+  "description": "burger recipies",
+  "main": "KidHamburger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethn26/BurgersRUS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethn26/BurgersRUS/issues"
+  },
+  "homepage": "https://github.com/bethn26/BurgersRUS#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
